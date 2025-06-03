@@ -218,3 +218,9 @@ Use a extensão **Live Server** do VSCode:
 - **Pronta para deploy**: basta enviar `index.html`, `assets/` e `dist/` para um servidor web.
 
 ---
+
+## 👤 GitHub
+
+[![Foto de Perfil](https://github.com/floresjcd.png?size=50)](https://github.com/floresjcd) 
+**[@floresjcd](https://github.com/floresjcd)**
+
